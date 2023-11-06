@@ -16,9 +16,9 @@ body {
 #earth {
     width: 300px;
     height: 300px;
-    background: url(https://drive.google.com/file/d/1Wr0GUo4CpEcOIYmDP7BvvuRjGoS5j3pX/view?usp=drivesdk);
+    background: url(https://shorturl.at/djqCY);
     border-radius: 50%;
-    background-size: 610px;
+    background-size: 1220px;
     box-shadow: inset 8px 36px 80px 36px rgb(0, 0, 0), inset -6px 0 12px 4px rgba(255, 255, 255, 0.3);
     animation-name: rotate;
     animation-duration: 5s;
